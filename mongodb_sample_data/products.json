@@ -1,0 +1,94 @@
+{ 
+    "_id" : ObjectId("5a8cfe771991af14a292c7c2"), 
+    "name" : "iPhone X", 
+    "price" : NumberInt(100000), 
+    "categories" : [
+        ObjectId("5a8cfb1e1991af14a292c7bc"), 
+        ObjectId("5a8cfb491991af14a292c7bd"), 
+        ObjectId("5a8cfce01991af14a292c7bf")
+    ], 
+    "Created_date" : ISODate("2018-02-21T05:07:03.254+0000"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5a8cfeb01991af14a292c7c3"), 
+    "name" : "iPhone 8", 
+    "price" : NumberInt(80000), 
+    "categories" : [
+        ObjectId("5a8cfb1e1991af14a292c7bc"), 
+        ObjectId("5a8cfb491991af14a292c7bd"), 
+        ObjectId("5a8cfce01991af14a292c7bf")
+    ], 
+    "Created_date" : ISODate("2018-02-21T05:08:00.958+0000"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5a8cfeb81991af14a292c7c4"), 
+    "name" : "iPhone 7", 
+    "price" : NumberInt(70000), 
+    "categories" : [
+        ObjectId("5a8cfb1e1991af14a292c7bc"), 
+        ObjectId("5a8cfb491991af14a292c7bd"), 
+        ObjectId("5a8cfce01991af14a292c7bf")
+    ], 
+    "Created_date" : ISODate("2018-02-21T05:08:08.122+0000"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5a8d001b1991af14a292c7c5"), 
+    "name" : "Nokia 9", 
+    "price" : NumberInt(75000), 
+    "categories" : [
+        ObjectId("5a8cfb1e1991af14a292c7bc"), 
+        ObjectId("5a8cfb491991af14a292c7bd"), 
+        ObjectId("5a8cfcf31991af14a292c7c0")
+    ], 
+    "Created_date" : ISODate("2018-02-21T05:14:03.123+0000"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5a8d00551991af14a292c7c6"), 
+    "name" : "Nokia 8", 
+    "price" : NumberInt(65000), 
+    "categories" : [
+        ObjectId("5a8cfb1e1991af14a292c7bc"), 
+        ObjectId("5a8cfb491991af14a292c7bd"), 
+        ObjectId("5a8cfcf31991af14a292c7c0")
+    ], 
+    "Created_date" : ISODate("2018-02-21T05:15:01.653+0000"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5a8d007d1991af14a292c7c7"), 
+    "name" : "BlackBerry Z10", 
+    "price" : NumberInt(50000), 
+    "categories" : [
+        ObjectId("5a8cfb1e1991af14a292c7bc"), 
+        ObjectId("5a8cfb491991af14a292c7bd"), 
+        ObjectId("5a8cfcfb1991af14a292c7c1")
+    ], 
+    "Created_date" : ISODate("2018-02-21T05:15:41.401+0000"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5a8d00c21991af14a292c7c8"), 
+    "name" : "iPad Mini", 
+    "price" : NumberInt(90000), 
+    "categories" : [
+        ObjectId("5a8cfb1e1991af14a292c7bc"), 
+        ObjectId("5a8cfb561991af14a292c7be")
+    ], 
+    "Created_date" : ISODate("2018-02-21T05:16:50.896+0000"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5a8d00d91991af14a292c7c9"), 
+    "name" : "Galaxy Tab 3", 
+    "price" : NumberInt(55000), 
+    "categories" : [
+        ObjectId("5a8cfb1e1991af14a292c7bc"), 
+        ObjectId("5a8cfb561991af14a292c7be")
+    ], 
+    "Created_date" : ISODate("2018-02-21T05:17:13.258+0000"), 
+    "__v" : NumberInt(0)
+}

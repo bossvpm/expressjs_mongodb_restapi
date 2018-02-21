@@ -1,0 +1,91 @@
+{ 
+    "_id" : ObjectId("5a8cfb1e1991af14a292c7bc"), 
+    "name" : "Electronics", 
+    "products" : [
+        ObjectId("5a8cfe771991af14a292c7c2"), 
+        ObjectId("5a8cfeb01991af14a292c7c3"), 
+        ObjectId("5a8cfeb81991af14a292c7c4"), 
+        ObjectId("5a8d001b1991af14a292c7c5"), 
+        ObjectId("5a8d00551991af14a292c7c6"), 
+        ObjectId("5a8d007d1991af14a292c7c7"), 
+        ObjectId("5a8d00c21991af14a292c7c8"), 
+        ObjectId("5a8d00d91991af14a292c7c9")
+    ], 
+    "child_categories" : [
+        "5a8cfb491991af14a292c7bd", 
+        "5a8cfb561991af14a292c7be"
+    ], 
+    "Created_date" : ISODate("2018-02-21T04:52:46.218+0000"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5a8cfb491991af14a292c7bd"), 
+    "name" : "Mobile Phones", 
+    "products" : [
+        ObjectId("5a8cfe771991af14a292c7c2"), 
+        ObjectId("5a8cfeb01991af14a292c7c3"), 
+        ObjectId("5a8cfeb81991af14a292c7c4"), 
+        ObjectId("5a8d001b1991af14a292c7c5"), 
+        ObjectId("5a8d00551991af14a292c7c6"), 
+        ObjectId("5a8d007d1991af14a292c7c7")
+    ], 
+    "child_categories" : [
+        "5a8cfcfb1991af14a292c7c1", 
+        "5a8cfcf31991af14a292c7c0", 
+        "5a8cfce01991af14a292c7bf"
+    ], 
+    "Created_date" : ISODate("2018-02-21T04:53:29.516+0000"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5a8cfb561991af14a292c7be"), 
+    "name" : "Tablets", 
+    "products" : [
+        ObjectId("5a8d00c21991af14a292c7c8"), 
+        ObjectId("5a8d00d91991af14a292c7c9")
+    ], 
+    "child_categories" : [
+
+    ], 
+    "Created_date" : ISODate("2018-02-21T04:53:42.664+0000"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5a8cfce01991af14a292c7bf"), 
+    "name" : "Apple", 
+    "products" : [
+        ObjectId("5a8cfe771991af14a292c7c2"), 
+        ObjectId("5a8cfeb01991af14a292c7c3"), 
+        ObjectId("5a8cfeb81991af14a292c7c4")
+    ], 
+    "child_categories" : [
+
+    ], 
+    "Created_date" : ISODate("2018-02-21T05:00:16.251+0000"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5a8cfcf31991af14a292c7c0"), 
+    "name" : "Nokia", 
+    "products" : [
+        ObjectId("5a8d001b1991af14a292c7c5"), 
+        ObjectId("5a8d00551991af14a292c7c6")
+    ], 
+    "child_categories" : [
+
+    ], 
+    "Created_date" : ISODate("2018-02-21T05:00:35.305+0000"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5a8cfcfb1991af14a292c7c1"), 
+    "name" : "BlackBerry", 
+    "products" : [
+        ObjectId("5a8d007d1991af14a292c7c7")
+    ], 
+    "child_categories" : [
+
+    ], 
+    "Created_date" : ISODate("2018-02-21T05:00:43.818+0000"), 
+    "__v" : NumberInt(0)
+}
